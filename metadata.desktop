@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=Look and Feel theme inspired by Unity
+Name=United
+X-KDE-PluginInfo-Author=llucas 
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=kdeokk@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=United
+X-KDE-PluginInfo-Version=0.8
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1001434,kns://plasma-themes.knsrc/api.kde-look.org/998797,kns://plasmoids.knsrc/api.kde-look.org/1181039,kns://plasmoids.knsrc/api.kde-look.org/1194339
