@@ -9,7 +9,7 @@ activity.writeConfig("showToolbox", false)
 
 
 //Create top panel
-panel = new plasma.Panel
+var panel = new Panel
 panel.location = "top"
 panel.alignment = "left"
 panel.height = gridUnit * 2
@@ -39,7 +39,7 @@ uswitcher.writeConfig("showSett", true)
 
 //Create left panel
  
-var leftpanel = new plasma.Panel
+var leftpanel = new Panel
 leftpanel.location = "left"
 leftpanel.height = gridUnit * 3.2
 leftpanel.offset=panel.height
